@@ -4,9 +4,10 @@
 
 ## Problem Statement
 
-My task today get dataset in Power BI from local files and analyze the financial 
-performance of the healthcare center. Additionally, provide 
-insights on the healthcare providers.
+The objective is to import and analyze financial performance data from local files using Power BI. 
+The analysis aims to evaluate key financial metrics and trends within the healthcare sector. 
+Additionally, the study will provide insights into the performance and efficiency of healthcare providers, 
+helping stakeholders make data-driven decisions.
 
 
 ### Project Requirement
